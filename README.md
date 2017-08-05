@@ -1,2 +1,3 @@
-# bike-shop
-repo set-up exercise
+**bike-shop**
+> repo _set-up_ exercise: 
+> "Just followin' orders, sir."
